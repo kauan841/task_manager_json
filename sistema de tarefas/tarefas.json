@@ -1,0 +1,14 @@
+[
+    {
+        "nome": "fazer o projeto",
+        "descricao": "fazer um projeto de tarefas"
+    },
+    {
+        "nome": "github",
+        "descricao": "lançar no github"
+    },
+    {
+        "nome": "programador",
+        "descricao": "um programador não nasce sabendo de tudo apenas estudando e sendo um gafanhoto"
+    }
+]
