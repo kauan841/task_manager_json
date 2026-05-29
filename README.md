@@ -51,9 +51,13 @@ Quando o programa é executado, o usuário interage diretamente pelo terminal.
 Exemplo da interface:
 
 Seja bem-vindo ao sistema de tarefas!
+
 1 - Adicionar tarefa
+
 2 - Listar tarefas
+
 3 - Remover tarefa
+
 4 - Sair
 
 Escolha uma opção: 1
